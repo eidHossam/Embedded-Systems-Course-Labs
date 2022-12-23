@@ -1,0 +1,8 @@
+Dependencies for Project 'Lab7', Target 'Lab7': (DO NOT MODIFY !)
+CompilerVersion: 6180000::V6.18::ARMCLANG
+F (.\startup.s)(0x57018D78)(--target=armv7em-arm-none-eabi -mcpu=cortex-m4 -mfpu=none -mfloat-abi=soft -masm=auto -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-ID:/programming/keli/ARM/RV31/INC-ID:/programming/keli/ARM/CMSIS/Include-ID:/programming/keli/ARM/INC/TI/TM4C123-Wa,armasm,--pd,"__UVISION_VERSION SETA 537"-o ./startup.o)
+F (.\main.c)(0x63863419)(-xc -std=c90 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=none -mfloat-abi=soft -c-fno-rtti -fsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I .. -I ../../..-ID:/programming/keli/ARM/RV31/INC-ID:/programming/keli/ARM/CMSIS/Include-ID:/programming/keli/ARM/INC/TI/TM4C123-D__UVISION_VERSION="537" -Drvmdk -DPART_LM4F120H5QR -DTM4C123GH6PM-o ./main.o -MD)
+I (D:\programming\keli\ARM\ARMCLANG\include\stdio.h)(0x6252B536)
+I (TExaS.h)(0x56995486)
+I (D:\programming\keli\ARM\ARMCLANG\include\stdint.h)(0x6252B538)
+F (.\texas.o)(0x5699537A)()
